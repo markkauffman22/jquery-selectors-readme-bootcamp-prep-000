@@ -1,11 +1,5 @@
-// declare your functions here...
-
-function paragraphSelector() {
-  
-}
-
 ///////////////////////////////
-	'use-strict';
+'use-strict'; // best practice
 
 
 // declare your functions here... 
